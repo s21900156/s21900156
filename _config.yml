@@ -48,7 +48,7 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             내정보
+  - title:             예시를 통해 배우는 곳
     url:               /example/
   - title:             포스팅
     url:               /docs/
