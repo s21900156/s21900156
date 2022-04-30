@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Example Content
+title: 예시를 통해 배우는 곳
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-sitemap: false
+  markdown문법과 같이 예시가 있어 나중에 블로그 내용을 만들 때 참고 할 수 있다.
 hide_last_modified: true
 ---
 
